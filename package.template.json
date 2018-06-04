@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "sh build.sh",
+    "test": "node test/test.js"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.1",
+    "uglify-js": "^3.4.0"
+  }
+}
